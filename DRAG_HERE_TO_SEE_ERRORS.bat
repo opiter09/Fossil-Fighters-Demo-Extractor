@@ -1,3 +1,3 @@
 cd ./
-extract.exe %1
+demoExtract.exe %1
 cmd \k

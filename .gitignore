@@ -1,2 +1,6 @@
-
+NDS_UNPACK/*
+VDEE/*
+YKHE/*
 *.nds
+*.narc
+*.bin

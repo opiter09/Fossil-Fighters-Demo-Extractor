@@ -8,7 +8,7 @@ to work on both the American and Japanese demos.
 NOTE: The output from fftool will be in the folder YKHE (for FF1) or VDEE (for FFC). Both the American and Japanese demos of a game will use the same folder, so make sure to rename it if you would like
 to have both around.
 
-Also, you download this by pressing the green "Code" button and choosing "Download ZIP," and
+Also, you download this by pressing the green "Code" button and choosing "Download ZIP", and
 you run it by dragging and dropping an FF1/FFC demo ROM onto demoExtract.exe.
 
 # Source Codes

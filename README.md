@@ -12,7 +12,7 @@ Also, you download this by pressing the green "Code" button and choosing "Downlo
 you run it by dragging and dropping an FF1/FFC demo ROM onto demoExtract.exe.
 
 # Source Codes
-- Narchive: https://github.com/nickworonekin/narchive (note that I have modified exract.cmd)
+- Narchive: https://github.com/nickworonekin/narchive (note that I have modified extract.cmd)
 - FFTool: https://github.com/jianmingyong/Fossil-Fighters-Tool
 - NDSTool: https://github.com/devkitPro/ndstool (this is a later version; the one used here came without a license as part of DSLazy)
 - CUE Decompressors (blz.exe): https://www.romhacking.net/utilities/826/

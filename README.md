@@ -8,7 +8,8 @@ to work on both the American and Japanese demos.
 You download this by pressing the green "Code" button and choosing "Download ZIP", and you run it by dragging and dropping an
 FF1/FFC demo ROM onto demoExtract.exe. Note that you MUST put the ROM in the same folder as the exe, or it won't work.
 
-Furthermore, this is only designed for Windows. For Mac and Linux, I can only point you to WINE: https://www.winehq.org
+Furthermore, this is only designed for Windows. For Mac and Linux, I can only point you to WINE: https://www.winehq.org. When running
+this through WINE, please use the command ``wine demoExtract.exe "ROMNAME.NDS"``, not ``wine demoExtract.exe`` alone.
 
 NOTE: The output from fftool will be in the folder YKHE (for FF1) or VDEE (for FFC). Both the American and Japanese demos of a game will
 use the same folder, so make sure to rename it if you would like to have both around.
